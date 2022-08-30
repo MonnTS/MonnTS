@@ -36,9 +36,7 @@ I am a Software Engineer from Poland 🇵🇱
 </div>
 
 ## Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonnTs&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonnTs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonnTS&show_icons=true)
 
 ## Where to find me:
 [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40" />](https://www.linkedin.com/in/monnzy)
