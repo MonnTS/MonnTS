@@ -1,9 +1,5 @@
 # Well hello there 👋!
 
-## **About me**:
-
-I am a Software Engineer from Poland 🇵🇱
-
 ## Technologies and tools I use:
 
 <div>
@@ -25,6 +21,3 @@ I am a Software Engineer from Poland 🇵🇱
 
 ## Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonnTS&show_icons=true)
-
-## Where to find me:
-[<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40" />](https://www.linkedin.com/in/monnzy)
