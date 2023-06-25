@@ -1,4 +1,4 @@
-# Well hello there 👋!
+# Hi
 
 ## Technologies:
 
